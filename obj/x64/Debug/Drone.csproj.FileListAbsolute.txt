@@ -1,0 +1,3 @@
+C:\Users\soulb\source\repos\DroneProject(Rebuild)\DroneProject(Rebuild)\obj\x64\Debug\Drone.csproj.AssemblyReference.cache
+C:\Users\soulb\source\repos\DroneProject(Rebuild)\DroneProject(Rebuild)\obj\x64\Debug\DroneProject(Rebuild).exe.config
+C:\Users\soulb\source\repos\DroneProject(Rebuild)\DroneProject(Rebuild)\obj\x64\Debug\Drone.csproj.CoreCompileInputs.cache
